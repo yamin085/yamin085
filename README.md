@@ -1,4 +1,4 @@
-# Yamin-2085/README.md
+# Yamin/README.md
 
 # Abdullah Mahmud Yamin
 
