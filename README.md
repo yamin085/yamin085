@@ -76,5 +76,5 @@ const AbdullahMahmudYamin = {
 
 ---
 
-### ✨ "Learning never stops for a developer." ✨
+### ✨ "Learning never stops for a enthusiast." ✨
 
